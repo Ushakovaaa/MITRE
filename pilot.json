@@ -748,7 +748,7 @@
 		{
 			"techniqueID": "T1550.002",
 			"tactic": "defense-evasion",
-			"color": "#c6dbef",
+			"color": "#fcf3a2",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -758,7 +758,7 @@
 		{
 			"techniqueID": "T1550.002",
 			"tactic": "lateral-movement",
-			"color": "#c6dbef",
+			"color": "#fcf3a2",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -1025,8 +1025,8 @@
 			"label": "PILOT"
 		},
 		{
-			"label": "KUMA",
-			"color": "#fcf3a2"
+			"color": "#fcf3a2",
+			"label": "KUMA"
 		}
 	],
 	"metadata": [],

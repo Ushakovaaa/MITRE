@@ -1998,7 +1998,7 @@
 		},
 		{
 			"techniqueID": "T1069",
-			"tactic": "collection",
+			"tactic": "discovery",
 			"color": "#dadaeb",
 			"comment": "Active Directory data collection tool",
 			"enabled": true,
@@ -2008,7 +2008,7 @@
 		},
 		{
 			"techniqueID": "T1069.002",
-			"tactic": "collection",
+			"tactic": "discovery",
 			"color": "#dadaeb",
 			"comment": "Active Directory data collection tool",
 			"enabled": true,

@@ -1998,6 +1998,26 @@
 		},
 		{
 			"techniqueID": "T1069",
+			"tactic": "collection",
+			"color": "#dadaeb",
+			"comment": "Active Directory data collection tool",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T1069.002",
+			"tactic": "collection",
+			"color": "#dadaeb",
+			"comment": "Active Directory data collection tool",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T1069",
 			"tactic": "discovery",
 			"color": "#dadaeb",
 			"comment": "Active Directory data collection tool",
